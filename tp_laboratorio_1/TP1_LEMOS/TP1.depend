@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1585958048 source:c:\users\lau\google drive (lemos.lautaro@gmail.com)\laboratorio y progamacion 1\tp1\main.c
+	<stdio.h>
+	<stdlib.h>
+	"lemos.h"
+
+1585958087 c:\users\lau\google drive (lemos.lautaro@gmail.com)\laboratorio y progamacion 1\tp1\lemos.h
+
+1587131571 source:c:\users\lau\google drive (lemos.lautaro@gmail.com)\laboratorio y progamacion 1\tp_laboratorio_1\tp1_lemos\lemos.c
+	<stdio.h>
+	<stdlib.h>
+	"lemos.h"
+
+1587131581 c:\users\lau\google drive (lemos.lautaro@gmail.com)\laboratorio y progamacion 1\tp_laboratorio_1\tp1_lemos\lemos.h
+
+1587132683 source:c:\users\lau\google drive (lemos.lautaro@gmail.com)\laboratorio y progamacion 1\tp_laboratorio_1\tp1_lemos\main.c
+	<stdio.h>
+	<stdlib.h>
+	"lemos.h"
+
